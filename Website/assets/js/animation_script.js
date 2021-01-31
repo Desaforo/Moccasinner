@@ -154,7 +154,7 @@ for (let i = 0; i < button.length; i++) {
 }
 
 //Texts for Exercise
-var headerBizepsCurls = "Bizeps Curls";
+var headerBizepsCurls = "Bizeps-Curls";
 var textBizepsCurls =
   "<ol><li>Nehme die Kurzhanteln auf. Dabei hältst du in jeder Hand eine Hantel im Untergriff.</li><li>Stelle dich aufrecht in den hüftbreiten Stand.</li><li>Rolle deine Schultern nach hinten.</li><li>Fixiere deine Ellenbogen bei gestreckten Armen seitlich vorne am Körper.</li></ol>";
 
@@ -178,11 +178,11 @@ var headerBeckenheben = "Beckenheben";
 var textBeckenheben =
   "<ol><li>Lege dich mit dem Rücken auf den Boden und winkle deine Beine an, sodass deine Füße mit den Fußsohlen auf dem Boden oder der Matte stehen.</li><p>Deine Arme legst du neben den Körper, dies garantiert dir mehr Stabilität des Oberkörpers während der Übung.</p><li>Jetzt atmest du aus und hebst gleichzeitig das Becken nach oben an, bis Oberschenkel und Oberkörper eine gerade Linie bilden.</li><p>Um mehr Intensität zu erzeugen, kannst du diese „Brücken“-Position für einige Sekunden halten.</p><li>Anschließend senkst du das Becken wieder langsam nach unten bis fast auf den Boden oder die Matte ab.</li><p>Während du dies tust, atmest du ein.</p></ol>";
 
-var headerKniebeuge = "Kniebeuge";
+var headerKniebeuge = "Kniebeugen";
 var textKniebeuge =
-  "<ol><li>Stellen Sie mit den Beinen etwa schulterbreit aufrecht hin.</li><li>Verschränken Sie die Hände hinter den Kopf.</li><li>Schieben Sie Ihre Hüfte nach hinten und beugen Sie Ihre Knie.</li><li>Halten Sie den unteren Rücken gerade und senken Sie Ihren Körper so tief Sie können.</li><p>Die Füße halten stets Bodenkontakt!</p><li>Wieder hoch, wenn die Oberschenkel sich in der Waagerechten befinden.</li></ol>";
+  "<ol><li>Stellen Sie sich mit den Beinen etwa schulterbreit aufrecht hin.</li><li>Verschränken Sie die Hände hinter dem Kopf.</li><li>Schieben Sie Ihre Hüfte nach hinten und beugen Sie Ihre Knie.</li><li>Halten Sie den unteren Rücken gerade und senken Sie Ihren Körper so tief Sie können.</li><p>Die Füße halten stets Bodenkontakt!</p><li>Wieder hoch, wenn die Oberschenkel sich in der Waagerechten befinden.</li></ol>";
 
-var headerLiegestuetze = "Liegestzütze";
+var headerLiegestuetze = "Liegestzützen";
 var textLiegestuetzen =
   "<ol><li>Ausgangsposition des Liegestützes ist die Bauchlage, der Körper ist gestreckt.</li><p>Die Hände befinden sich etwas über schulterbreit voneinander entfernt am Boden.</p><p>Die Finger zeigen nach vorne, die Daumen nach innen.</p><li>Durch gleichzeitiges Anspannen der Arme werden diese gestreckt und der Oberkörper hebt vom Boden ab.</li><p>Das Gewicht wird gleichmäßig auf Zehenspitzen und Händen verteilt.</p><p>Kopf, Hals, Wirbelsäule, Gesäß und Knie bilden eine Linie und die Bauchmuskulatur ist angespannt.</p><li>Nun werden beide Arme gleichzeitig gebeugt und der Oberkörper somit abgesenkt, bis die Nasenspitze fast den Boden berührt.</li><p>Der Körper bleibt dabei gestreckt.</p></ol>";
 

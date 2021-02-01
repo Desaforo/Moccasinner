@@ -180,7 +180,7 @@ var textBeckenheben =
 
 var headerKniebeuge = "Kniebeugen";
 var textKniebeuge =
-  "<ol><li>Stellen Sie sich mit den Beinen etwa schulterbreit aufrecht hin.</li><li>Verschränken Sie die Hände hinter dem Kopf.</li><li>Schieben Sie Ihre Hüfte nach hinten und beugen Sie Ihre Knie.</li><li>Halten Sie den unteren Rücken gerade und senken Sie Ihren Körper so tief Sie können.</li><p>Die Füße halten stets Bodenkontakt!</p><li>Wieder hoch, wenn die Oberschenkel sich in der Waagerechten befinden.</li></ol>";
+  "<ol><li>Stelle dich mit den Beinen etwa schulterbreit aufrecht hin.</li><li>Verschränke die Hände hinter dem Kopf.</li><li>Schiebe deine Hüfte nach hinten und beuge deine Knie.</li><li>Halte den unteren Rücken gerade und senke deinen Körper so tief du kannst.</li><p>Die Füße halten stets Bodenkontakt!</p><li>Wieder hoch, wenn die Oberschenkel sich in der Waagerechten befinden.</li></ol>";
 
 var headerLiegestuetze = "Liegestzützen";
 var textLiegestuetzen =

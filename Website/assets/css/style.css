@@ -28,7 +28,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
-
+@media screen and (min-width: 992px ){
+    #handlung {
+    height: 400px;
+    }
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -327,7 +331,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: #fff7;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
